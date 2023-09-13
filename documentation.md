@@ -1,7 +1,7 @@
 ## Setup Instructions
 
 
-Clone the repository: git clone https://github.com/yourusername/your-api-repo.git
+Clone the repository: git clone https://github.com/Demmy100/hng_stage_two.git
 Install dependencies: npm install
 Start the server: node server.js
 Access the API locally: http://localhost:4001/api
@@ -13,7 +13,7 @@ Access the API locally: http://localhost:4001/api
 
 This API allows you to manage person records. You can create, read, update, and delete person records.
 
-Base URL: `http://localhost:3000/api`
+Base URL: `http://localhost:4001/api`
 
 ## Endpoints
 

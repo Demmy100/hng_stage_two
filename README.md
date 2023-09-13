@@ -31,10 +31,10 @@ Before setting up and using the API, ensure you have the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/person-management-api.git
+   git clone https://github.com/Demmy100/hng_stage_two.git
 
 
-The API will be accessible at http://localhost:3000/api.
+The API will be accessible at http://localhost:4001/api.
 
 ## API Endpoints
 
