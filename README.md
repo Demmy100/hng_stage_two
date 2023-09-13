@@ -53,3 +53,7 @@ Endpoint: DELETE /api/:user_id
 
 ## Limitations
 The API does not include authentication or authorization. It assumes that the endpoints are accessible to anyone.
+
+
+## UML Diagram Link
+![Alt text](image.png)
